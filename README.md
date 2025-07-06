@@ -10,6 +10,8 @@ Download the required telemetry agent for F5 devices from the link below:
 
 🔗 [https://github.com/F5Networks/f5-telemetry-streaming/releases](https://github.com/F5Networks/f5-telemetry-streaming/releases)
 
+![rpm-download](https://github.com/user-attachments/assets/44d41c5f-aa44-46a1-b6dc-c001cedc7798)
+
 ---
 
 ### 📦 2. Upload the RPM to F5
@@ -25,6 +27,8 @@ Navigate to `System > User List > Create`
 
 - **Role:** Administrator
 - **Terminal Access:** `tmsh`
+
+![user-defined](https://github.com/user-attachments/assets/c7600f9d-9bac-43ef-96aa-278ebedf7c8c)
 
 ---
 
