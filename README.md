@@ -110,7 +110,7 @@ scrape_configs:
       username: 'prometheus'
       password: '******'
     static_configs:
-      - targets: ['10.100.101.6:443']
+      - targets: ['<F5-MANAGEMENT-IP>:443']
 ```
 
 #### Start Prometheus:
