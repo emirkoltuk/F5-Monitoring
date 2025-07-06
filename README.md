@@ -131,6 +131,8 @@ scrape_configs:
 ./prometheus
 ```
 
+---
+
 ### 📊 7. Visualize with Grafana
 
 Once Prometheus is running and collecting metrics, configure Grafana to use Prometheus as a data source.
