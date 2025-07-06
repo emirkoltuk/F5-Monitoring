@@ -1,4 +1,4 @@
-## 📡 Monitoring F5 Devices with Prometheus
+## 📡 Monitoring F5 Devices with Prometheus and Grafana
 
 This document explains the step-by-step process of integrating F5 devices with Prometheus for monitoring purposes.
 
