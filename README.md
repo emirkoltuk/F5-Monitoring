@@ -4,6 +4,14 @@ This document explains the step-by-step process of integrating F5 devices with P
 
 ---
 
+### 🗺️ Topology Overview
+
+The diagram below shows how F5 devices integrate with Prometheus and Grafana through Telemetry Streaming:
+
+![image](https://github.com/user-attachments/assets/ae4e6208-7157-4cce-99b5-0c7ba4a98ed2)
+
+---
+
 ### 🔧 1. Download Telemetry Streaming RPM
 
 Download the required telemetry agent for F5 devices from the link below:
@@ -122,6 +130,11 @@ scrape_configs:
 ```bash
 ./prometheus
 ```
+
+### 📊 7. Visualize with Grafana
+
+Once Prometheus is running and collecting metrics, configure Grafana to use Prometheus as a data source.
+From there, you can create dashboards to visualize F5 performance, traffic, CPU, memory, and more.
 
 ---
 
