@@ -138,5 +138,7 @@ scrape_configs:
 Once Prometheus is running and collecting metrics, configure Grafana to use Prometheus as a data source.
 From there, you can create dashboards to visualize F5 performance, traffic, CPU, memory, and more.
 
+![image](https://github.com/user-attachments/assets/482aa8d6-6dc3-409b-b6e5-baec97b180c1)
+
 ---
 
