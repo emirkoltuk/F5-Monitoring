@@ -125,5 +125,3 @@ scrape_configs:
 
 ---
 
-✨ Monitoring is now live! You can also integrate with tools like Grafana for visualization.
-
